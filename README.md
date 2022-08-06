@@ -6,8 +6,6 @@
 
 3)Run setup.bat to auto pip install Coinbase and term color
 
-.. code:: bash
-
     pip install coinbase
     pip install termcolor
 
